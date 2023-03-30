@@ -1,4 +1,4 @@
-# **Naive_Bayes_Assignments**
+# **Naive_Bayes_Assignment**
 
 
 1) Prepare a classification model using Naive Bayes 
