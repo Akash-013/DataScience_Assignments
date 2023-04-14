@@ -1,11 +1,13 @@
 **#K-Nearest Neighbors (KNN)_Assignment**
 Complete answers for datascience assignments.
 
-#KNN Zoo Dataset
+**KNN Zoo Dataset**
+
 Implement a KNN model to classify the animals in to categories
 
 
-#KNN Glass Dataset
+**KNN Glass Dataset**
+
 Prepare a model for glass classification using KNN
 
 Data Description:
